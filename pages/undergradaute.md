@@ -23,3 +23,46 @@ Students of German at Temple University are part of a  vibrant, dynamic and succ
  - BA in German
  - Minor in German
  - Certificate in German
+ 
+## German Program Overview
+
+German is a major world language spoken in Germany, Austria, and Switzerland, and in sections of other countries (e.g. Alsace) as well as in communities throughout the world. Whether you are interested in economics, history, literature, music, theater, film, or art, German culture has a rich and exciting tradition. Temple’s German program provides broad linguistic, cultural, and practical experiences to prepare students to participate meaningfully in the German-speaking world, be it in graduate school, the professions, or business. In the course of their studies, students develop skills in reading, writing, and oral communication as they engage with the German language through literature, media and arts. Advanced classes explore culture and history as they shape German identities, providing students with an understanding of current German-speaking cultures through the analytical lenses of language, literature, cinema and history. Majors complete the program with an in-depth understanding of the history, cinema, art and culture of German-speaking people in a globalized world, and with an awareness of how language shapes peoples’ cultures.
+
+## Degrees and Programs of Study
+
+The German Program at Temple offers a B.A. in German, as well as a minor and a certificate in the German language. To be considered for Distinction in the German Major, students must complete the requirements for the concentration in German with a GPA of at least 3.50; have an overall GPA of at least 3.25; and be recommended to the Chair of the department by the German faculty advisor.
+
+- [Major in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/ba-german/) 
+- [Minor in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-german/)
+- [Foreign Language Certificate in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/certificate-german/)
+
+## Curriculum
+
+The German program at Temple University offers an interdisciplinary curriculum that provides students with knowledge of the German language and that places a strong emphasis on Cultural Studies. The curriculum emphasizes the interconnectedness of literature, culture and politics as they shape German national identities in the past and present. Once students have acquired basic knowledge of the German language in introductory and intermediate language classes, upper level language and culture courses offer German majors a broad knowledge of canonical writers and historical events as well as in-depth studies of social and historical phenomena like nationalism (in particular the development of German fascism), gender relations, and contemporary debates on multiculturalism. Intermediate and advanced language classes combine language acquisition with cultural and historical studies as students explore the diverse cultures of German-speaking regions. Classes on German cinema and special topic seminars investigating specific historical periods (such as during the Weimar Republic) or particular themes (such as immigration) all explore culture and history as they shape German identities, providing students with an understanding of current German-speaking cultures through the analytical lenses of language, literature, cinema and history.
+
+For course descriptions, see the [Undergraduate Bulletin](https://prd-wlssb.temple.edu/prod8/bwckctlg.p_disp_dyn_ctlg).
+
+## Careers
+
+The Bachelor of Arts in German is an interdisciplinary liberal arts degree, providing students with concrete language proficiency skills and with the knowledge base and the intellectual, communication, and interpersonal skills essential to success in any career.
+
+## Internships
+
+We encourage students to apply to participate in an internship in a German-speaking country. There are several types of internships German majors have successfully applied to in the past. Fulbright Teaching Assistantships: In the past 12 years, more than ten students in the German Program have successfully completed a one-year assistantship in teaching English as a foreign language in a German-speaking country.
+German-American Chamber of Commerce: Several students have participated in paid summer internships in Germany through the German-American Chamber of Commerce, examples include Marta Sydoyak (2013) and Christopher Fry (2014).
+
+## Congress Bundestag Internships and Scholarships
+
+Awards/Scholarships
+
+German Professor’s Prize: This annual award is given by the Department of French, German, Italian, Slavic to the most outstanding members of the graduating class in recognition of excellence in German studies.
+
+Past Recipients:
+- 2014 - Shelby Greenwood
+- 2013 - Marta Sydoryak
+- 2012 - Amanda Torre
+- 2010 - Nicole Kaminski
+
+German Society of Pennsylvania: The scholarship award is intended to provide financial assistance to selected undergraduate students majoring in German language and literature. Awards are based primarily on the student's achievement and promise, although financial need may also be considered. The average awards in recent years have been about $2,500, with the dollar amount and number of recipients varying from year to year. The awards may be applied only to tuition, are paid in two installments at the beginnings of the fall and spring semesters, and are transmitted directly to the recipient's college or university upon certification of enrollment by that institution.
+
+Delta Phi Alpha: German majors can also apply for $1250-2500 scholarships awarded to seniors and juniors by the academic organization Delta Phi Alpha. Eligible students should be a member of Delta Phi Alpha, have demonstrated excellence in the field of German Studies, and intend to further their German studies with research and study abroad in a German-speaking country.
