@@ -4,16 +4,31 @@ permalink: "/resources"
 layout: page
 ---
 
-## Resources here here to help!
+## Resources for German Language Study
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-https://temple.edu
-
----
-
-## Resources here here to help!
-
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-
-https://temple.edu
+Nine Free Apps to Teach You German
+BBC Languages: German
+About.com German Language
+German Blog: Language and Culture
+Germany Today: Intensive Study of German Language and Culture
+Radio Lingua German Materials
+Populearn German
+Deutschlern.net
+Deutsch-lernen.com
+Deutsche Welle: Deutsch lernen
+FSI Language Courses: German
+German Festival Calendar
+Woerter Blog
+Livemocha
+Busuu
+Wordreference.com
+Online Deutsch lernen
+Start Deutsch 1
+Start Deutsch 2
+Zertifikat Deutsch
+Goethe Zertifikat C1
+Liste weiterer Prüfungen mit Übungsaufgaben
+Jobs & Careers
+Deutsche Sprache
+Einstufungstest
+Webseite des Goethe-Instituts
