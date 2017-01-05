@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
 German is one of the great world languages and leading Western cultures. The German-speaking national block is a leading economic power in the world community and is a leader in job creation, technology, innovation and creativity in the global arena. An education in German helps students achieve their learning goals, whether you want to engage in business with German partners, work in government or in the media, or participate in German culture. Our students develop skills in reading, writing and oral communication while acquiring a rich understanding of the literature, cinema, history and culture of the German-speaking world.
@@ -20,21 +21,17 @@ Students of German at Temple University are part of a  vibrant, dynamic and succ
 
 ## Academic offerings
 
- - BA in German
- - Minor in German
- - Certificate in German
+ - [BA in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/ba-german/)
+ - [Minor in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-german/)
+ - [Certificate in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/certificate-german/)
  
 ## German Program Overview
 
 German is a major world language spoken in Germany, Austria, and Switzerland, and in sections of other countries (e.g. Alsace) as well as in communities throughout the world. Whether you are interested in economics, history, literature, music, theater, film, or art, German culture has a rich and exciting tradition. Temple’s German program provides broad linguistic, cultural, and practical experiences to prepare students to participate meaningfully in the German-speaking world, be it in graduate school, the professions, or business. In the course of their studies, students develop skills in reading, writing, and oral communication as they engage with the German language through literature, media and arts. Advanced classes explore culture and history as they shape German identities, providing students with an understanding of current German-speaking cultures through the analytical lenses of language, literature, cinema and history. Majors complete the program with an in-depth understanding of the history, cinema, art and culture of German-speaking people in a globalized world, and with an awareness of how language shapes peoples’ cultures.
 
-## Degrees and Programs of Study
+## Programs of Study
 
 The German Program at Temple offers a B.A. in German, as well as a minor and a certificate in the German language. To be considered for Distinction in the German Major, students must complete the requirements for the concentration in German with a GPA of at least 3.50; have an overall GPA of at least 3.25; and be recommended to the Chair of the department by the German faculty advisor.
-
-- [Major in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/ba-german/) 
-- [Minor in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-german/)
-- [Foreign Language Certificate in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/certificate-german/)
 
 ## Curriculum
 
