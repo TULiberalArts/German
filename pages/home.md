@@ -2,6 +2,10 @@
 title: Home
 permalink: "/"
 layout: home
+feature: false
+feature-title: 
+feature-body: 
+feature-image: 
 ---
 
 German is one of the great world languages and  leading Western cultures. The German-speaking  national block is a leading economic power in the world community and is a leader in job creation, technology, innovation and creativity in the global arena.
