@@ -67,9 +67,9 @@ This is a four-week program of intensive German language instruction on a level 
 
 The program includes all levels of proficiency, intensive instruction, excursions, cultural programs, meet and greets with German students, and tours of Old University City. Leipzig is the City of Bach, Goethe & Schiller, Wagner, Mendelssohn, Handel, Grieg, and many others. Spend your summer speaking German in Leipzig!
 
-Summer Session I: June 2 - July 1, 2016
-Application Deadline: February 15, 2016
-APPLY NOW
+[Program Dates](https://studyabroad.temple.edu/node/572/)
+[Application Deadline](https://studyabroad.temple.edu/application-deadlines)
+[APPLY NOW](http://temple.us11.list-manage.com/track/click?u=909f549002f3ee69f5f0ecbe9&id=146e3accd7&e=4df0fdc07c)
 
 ## About Leipzig
 
@@ -79,25 +79,13 @@ Located in the heart of Europe in former East Germany, the city of Leipzig has a
 
 During the first week of the program students will participate in an orientation that will familiarize them with the university and the city. The orientation will also include an excursion to Dresden. The following three weeks will consist of intensive language study and excursions outside of the city. Students will take placement tests upon arrival and will then enroll in the appropriate level of German. Beginning students, who must have at least one semester of German or its equivalent, will enroll in German 1002 for four credits. Intermediate students will enroll in German 1003 or German 2001 for three credits, plus a one-credit Independent Study in German Studies. Students placing at advanced levels may enroll in other advanced German courses: Advanced Composition, or Intensive German, plus a one-credit Independent Study in German Studies.
 
-## Top Faculty
+## [Top Faculty](https://studyabroad.temple.edu/faculty/temple-summer-in-germany)
 
-Dr. Anthony Waskie, professor of German at Temple University and Leipzig program coordinator, will accompany the group and act as an advisor to assist in evaluation and granting of credit. Dr. Waskie is a specialist in German language, culture and civilization. He has extensive experience teaching German, and studied at the Universities of Marburg & Vienna and Salzburg (Austria). He has lived in Leipzig and taught at the university, and has led the department effort to set up this program. The faculty for the courses will be those assigned by the Herder Institute and the University of Leipzig.
+## [Field Trips](https://studyabroad.temple.edu/sites/temple-summer-in-germany/enrichment)
 
-## Field Trips
+## [Accommodation & Meals](https://studyabroad.temple.edu/sites/temple-summer-in-germany/living-in-leipzig)
 
-In addition to tours of Leipzig, the program includes an orientation and stay in Berlin. The Herder Institute also organizes optional day trips to the Wartburg Castle in Eisenach, Weimar, Spreewald, Dresden, and Saxon Switzerland, which are included, or as an option which students may take advantage of at a modest additional cost.
-
-## Accommodation & Meals
-
-Students will live in a single room in a student dormitory. Meals can be taken in the university cafeteria at affordable prices, prepared in the kitchenettes in dorms, or taken in town at restaurants.
-
-## Costs
-
-PA Resident Undergraduate Tuition (4cr) ~$1500
-PA Non-Resident Undergraduate Tuition (4cr) ~$2524
-Germany Fee ~$1200
-
-The Germany fee includes housing and the orientation in Berlin as well as excursions. In addition, students need to budget money for personal expenses including meals; local and personal travel; optional excursions; international airfare, which is estimated at $1600; health insurance; and the International Student Identity Card, currently $22.
+## [Costs](http://studyabroad.temple.edu/summer-programs-costs-scholarships-and-financial-aid)
 
 ## Eligibility & Application Requirements
 
