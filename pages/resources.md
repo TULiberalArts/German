@@ -6,57 +6,7 @@ layout: page
 published: true
 ---
 
-**Chair:**
-
-Cristina Gragnani<br>
-537 Anderson Hall<br>
-[(215) 204-1816](tel:2152041816)<br>
-[gragnani@temple.edu](mailto:gragnani@temple.edu)<br>
-
-**Administrator:**
-
-Michelle Pugliese<br>
-429 Anderson Hall<br>
-[(215) 204-5628](tel:2152045628)<br>
-[pugliese@temple.edu](mailto:pugliese@temple.edu)<br>
-
-**Coordinator:**
-
-Stephanie Smith<br>
-539 Anderson Hall<br>
-[(215) 204-1261](tel:2152041261)<br>
-[ssmith14@temple.edu](mailto:ssmith14@temple.edu)<br>
-
 ## Resources are here to help!
-
-## Resources for German Language Study
-
-- Nine Free Apps to Teach You German
-- BBC Languages: German
-- About.com German Language
-- German Blog: Language and Culture
-- Germany Today: Intensive Study of German Language and Culture
-- Radio Lingua German Materials
-- Populearn German
-- Deutschlern.net
-- Deutsch-lernen.com
-- Deutsche Welle: Deutsch lernen
-- FSI Language Courses: German
-- German Festival Calendar
-- Woerter Blog
-- Livemocha
-- Busuu
-- Wordreference.com
-- Online Deutsch lernen
-- Start Deutsch 1
-- Start Deutsch 2
-- Zertifikat Deutsch
-- Goethe Zertifikat C1
-- Liste weiterer Prüfungen mit Übungsaufgaben
-- Jobs & Careers
-- Deutsche Sprache
-- Einstufungstest
-- Webseite des Goethe-Instituts
 
 ## Summer Intensive German Program in Leipzig
 
