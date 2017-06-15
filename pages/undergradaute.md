@@ -4,6 +4,33 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Cristina Gragnani<br/>
+  537 Anderson Hall<br/>
+  [(215) 204-1816](tel:2152041816)<br/>
+  [gragnani@temple.edu](mailto:gragnani@temple.edu)<br/>
+  
+   <hr>
+
+  **Administrator:**<br/>
+  Michelle Pugliese<br/>
+  429 Anderson Hal <br/>
+  [(215) 204-5628](tel:2152045628)<br/>
+  [pugliese@temple.edu](mailto:pugliese@temple.edu)<br/>
+
+  <hr>
+
+  **Coordinator:** <br/>
+  Stephanie Smith<br/>
+  539 Anderson Hall<br/>
+  [(215) 204-1261](tel:2152041261)<br/>
+  [ssmith14@temple.edu](mailto:ssmith14@temple.edu)<br/>
 ---
 
 German is one of the great world languages and leading Western cultures. The German-speaking national block is a leading economic power in the world community and is a leader in job creation, technology, innovation and creativity in the global arena. An education in German helps students achieve their learning goals, whether you want to engage in business with German partners, work in government or in the media, or participate in German culture. Our students develop skills in reading, writing and oral communication while acquiring a rich understanding of the literature, cinema, history and culture of the German-speaking world.
