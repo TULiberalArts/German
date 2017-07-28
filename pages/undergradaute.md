@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > 
+sidebar-content: |
   **Chair:**  
    Cristina Gragnani  
    537 Anderson Hall  
@@ -26,7 +26,7 @@ sidebar-content: >
    Stephanie Smith  
    539 Anderson Hall    
    [(215) 204-1261](tel:2152041261)   
-   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)  
+   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
 ---
 
 German is one of the great world languages and leading Western cultures. The German-speaking national block is a leading economic power in the world community and is a leader in job creation, technology, innovation and creativity in the global arena. An education in German helps students achieve their learning goals, whether you want to engage in business with German partners, work in government or in the media, or participate in German culture. Our students develop skills in reading, writing and oral communication while acquiring a rich understanding of the literature, cinema, history and culture of the German-speaking world.
@@ -42,6 +42,8 @@ Our German faculty includes many Ph.D. graduates with extensive backgrounds in s
 ## A Caring Learning Community
 
 Students of German at Temple University are part of a  vibrant, dynamic and successful community within the  greater university setting. A Temple German student has  one-on-one access to faculty, as well as other students interested in German language and culture. This interest can be explored in our Temple University German Society (TUGS) and contacts with the German ethnic community of the  Philadelphia region. Some examples are: the German Society of Pennsylvania; German-American Chamber of Commerce; Cannstatter V.V. and the Philadelphia German-American Committee.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic offerings
 
