@@ -63,7 +63,7 @@ The German Program at Temple offers a B.A. in German, as well as a minor and a c
 
 The German program at Temple University offers an interdisciplinary curriculum that provides students with knowledge of the German language and that places a strong emphasis on Cultural Studies. The curriculum emphasizes the interconnectedness of literature, culture and politics as they shape German national identities in the past and present. Once students have acquired basic knowledge of the German language in introductory and intermediate language classes, upper level language and culture courses offer German majors a broad knowledge of canonical writers and historical events as well as in-depth studies of social and historical phenomena like nationalism (in particular the development of German fascism), gender relations, and contemporary debates on multiculturalism. Intermediate and advanced language classes combine language acquisition with cultural and historical studies as students explore the diverse cultures of German-speaking regions. Classes on German cinema and special topic seminars investigating specific historical periods (such as during the Weimar Republic) or particular themes (such as immigration) all explore culture and history as they shape German identities, providing students with an understanding of current German-speaking cultures through the analytical lenses of language, literature, cinema and history.
 
-For course descriptions, see the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/).
+For course descriptions, see the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/german/#courseinventory).
 
 ## Internships
 
