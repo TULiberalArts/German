@@ -72,7 +72,7 @@ German-American Chamber of Commerce: Several students have participated in paid 
 
 ## Congress Bundestag Internships and Scholarships
 
-Awards/Scholarships
+### Awards/Scholarships
 
 German Professor’s Prize: This annual award is given by the Department of French, German, Italian, Slavic to the most outstanding members of the graduating class in recognition of excellence in German studies.
 
