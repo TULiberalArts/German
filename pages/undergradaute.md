@@ -97,7 +97,7 @@ Secretary: Samuel Cook
 Events Coordinator: Gabe Neely
 Faculty Advisor: Dr. Anthony Waskie
 
-## GERMAN DELTA PHI ALPHA
+## German DELTA PHI ALPHA
 Delta Phi Alpha National German Honor Society, Gamma Omicron Chapter
 Established in 1949, the National German Honor Society, Delta Phi Alpha, seeks to recognize excellence in the study of German and to provide an incentive for higher scholarship. The Society aims to promote the study of the German language, literature and civilization and endeavors to emphasize those aspects of German life and culture which are of universal value and which contribute to man’s eternal search for peace and truth.
 
