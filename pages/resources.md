@@ -41,3 +41,8 @@ During the first week of the program students will participate in an orientation
 ## Eligibility & Application Requirements
 
 Eligibility and application requirements are listed online through the Office of Education Abroad and Overseas Campuses.  Please note, students must have successfully completed one semester of German language at the university level. Courses, costs, policies, and programs are subject to change.
+
+## Careers
+
+The Bachelor of Arts in German is an interdisciplinary liberal arts degree, providing students with concrete language proficiency skills and with the knowledge base and the intellectual, communication, and interpersonal skills essential to success in any career.
+
