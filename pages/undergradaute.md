@@ -65,10 +65,6 @@ The German program at Temple University offers an interdisciplinary curriculum t
 
 For course descriptions, see the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/).
 
-## Careers
-
-The Bachelor of Arts in German is an interdisciplinary liberal arts degree, providing students with concrete language proficiency skills and with the knowledge base and the intellectual, communication, and interpersonal skills essential to success in any career.
-
 ## Internships
 
 We encourage students to apply to participate in an internship in a German-speaking country. There are several types of internships German majors have successfully applied to in the past. Fulbright Teaching Assistantships: In the past 12 years, more than ten students in the German Program have successfully completed a one-year assistantship in teaching English as a foreign language in a German-speaking country.
