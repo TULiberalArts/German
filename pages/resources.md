@@ -20,7 +20,7 @@ The program includes all levels of proficiency, intensive instruction, excursion
 
 [Program Dates](https://studyabroad.temple.edu/node/572/)
 [Application Deadline](https://studyabroad.temple.edu/application-deadlines)
-[APPLY NOW](http://temple.us11.list-manage.com/track/click?u=909f549002f3ee69f5f0ecbe9&id=146e3accd7&e=4df0fdc07c)
+[APPLY NOW](https://studyabroad.temple.edu/sites/temple-summer-in-germany)
 
 ## About Leipzig
 
