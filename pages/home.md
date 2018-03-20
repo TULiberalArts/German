@@ -4,13 +4,13 @@ permalink: /
 layout: home3
 description: >- 
 keywords: ''
-feature: false
+feature: true
 feature-title: Study One of the Great World Languages and Leading Western Cultures
-feature-image: media/German hero.jpg
 feature-body: >-
   Temple’s German program provides broad linguistic, cultural, and practical experiences 
   to prepare students to participate meaningfully in the German-speaking world, be it in 
-  graduate school, the professions, or business.
+  graduate school, the professions or business.
+feature-image: media/German hero.jpg
 published: true
 
 ---
