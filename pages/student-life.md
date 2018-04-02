@@ -1,6 +1,6 @@
 ---
-title: Research
-permalink: "/research/"
+title: Student Life
+permalink: "/student-life/"
 layout: page
 keywords: ''
 description: >- 
