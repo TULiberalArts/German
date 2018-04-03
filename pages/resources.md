@@ -7,7 +7,7 @@ description: >-
 published: true
 ---
 ## Resources for German Language Study
-
+![TUGS]({{site.baseurl}}/media/resized TUGS logo.jpg){:.img-right}
 - [Nine Free Apps to Teach You German](http://www.young-germany.de/topic/work/language-communication/nine-free-apps-to-teach-you-german)
 - [BBC Languages: German](http://www.bbc.co.uk/languages/german/)
 - [About.com German Language](http://german.about.com/)
