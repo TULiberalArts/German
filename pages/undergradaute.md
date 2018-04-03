@@ -15,6 +15,14 @@ sidebar-content: |
    
    ___
    
+   **Faculty Advisor:**  
+   Anthony Waskie  
+   513 Anderson Hall   
+   [(215) 204-5452](tel:2152045452)  
+   [awaski01@temple.edu](mailto:awaski01@temple.edu)  
+   
+   ___
+   
    **Administrator:**  
    Michelle Pugliese  
    429 Anderson Hall   
