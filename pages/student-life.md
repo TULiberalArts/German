@@ -57,6 +57,7 @@ During the first week of the program students will participate in an orientation
 Eligibility and application requirements are listed online through the [Office of Education Abroad and Overseas Campuses](http://studyabroad.temple.edu/temple-summer-in-germany-application-requirements). Please note, students must have successfully completed one semester of German language at the university level. Courses, costs, policies and programs are subject to change.
 
 ## Herder Institut InterDaf at the University of Leipzig
+![Leipzig]({{site.baseurl}}/media/resized Goethe-Statue-Leipzig.jpg){:.img-right}
 This is a four-week program of intensive German language instruction on a level commensurate with the student’s skills from ‘beginner’ to ‘advanced’, which will be taught at the Herder Institute InterDaf of the University of Leipzig in the German state of Saxony. Included will be tours and overnight excursions, as well as intensive instruction leading to four Temple credits. The Herder Institute has over 60 years of excellence in advancing German Language skills, as well as teaching about the culture and civilization of Germany.
 
 The program includes all levels of proficiency, intensive instruction, excursions, cultural programs, meet and greets with German students, and tours of Old University City. Leipzig is the City of Bach, Goethe & Schiller, Wagner, Mendelssohn, Handel, Grieg, and many others. Spend your summer speaking German in Leipzig!
