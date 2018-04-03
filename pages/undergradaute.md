@@ -39,6 +39,7 @@ sidebar-content: |
 ---
 
 ## German Program Overview
+![Geramn Students]({{site.baseurl}}/media/resized Waskie and students.jpg){:.img-right}
 German is a major world language spoken in Germany, Austria, and Switzerland, and in sections of other countries (e.g. Alsace) as well as in communities throughout the world. Whether you are interested in economics, history, literature, music, theater, film, or art, German culture has a rich and exciting tradition. Temple’s German program provides broad linguistic, cultural, and practical experiences to prepare students to participate meaningfully in the German-speaking world, be it in graduate school, the professions, or business. In the course of their studies, students develop skills in reading, writing, and oral communication as they engage with the German language through literature, media and arts. Advanced classes explore culture and history as they shape German identities, providing students with an understanding of current German-speaking cultures through the analytical lenses of language, literature, cinema and history. Majors complete the program with an in-depth understanding of the history, cinema, art and culture of German-speaking people in a globalized world, and with an awareness of how language shapes peoples’ cultures.
 
 ## A Caring Learning Community
@@ -55,9 +56,7 @@ We encourage students to apply to participate in an internship in a German-speak
 German-American Chamber of Commerce: Several students have participated in paid summer internships in Germany through the German-American Chamber of Commerce, examples include Marta Sydoyak (2013) and Christopher Fry (2014).
 
 ## Congress Bundestag Internships and Scholarships
-
-### Awards/Scholarships
-German Professor’s Prize: This annual award is given by the Department of French, German, Italian, Slavic to the most outstanding members of the graduating class in recognition of excellence in German studies.
+**German Professor’s Prize:** This annual award is given by the Department of French, German, Italian, Slavic to the most outstanding members of the graduating class in recognition of excellence in German studies.
 
 Past Recipients:
 - 2014 - Shelby Greenwood
@@ -65,6 +64,6 @@ Past Recipients:
 - 2012 - Amanda Torre
 - 2010 - Nicole Kaminski
 
-German Society of Pennsylvania: The scholarship award is intended to provide financial assistance to selected undergraduate students majoring in German language and literature. Awards are based primarily on the student's achievement and promise, although financial need may also be considered. The average awards in recent years have been about $2,500, with the dollar amount and number of recipients varying from year to year. The awards may be applied only to tuition, are paid in two installments at the beginnings of the fall and spring semesters, and are transmitted directly to the recipient's college or university upon certification of enrollment by that institution.
+**German Society of Pennsylvania:** The scholarship award is intended to provide financial assistance to selected undergraduate students majoring in German language and literature. Awards are based primarily on the student's achievement and promise, although financial need may also be considered. The average awards in recent years have been about $2,500, with the dollar amount and number of recipients varying from year to year. The awards may be applied only to tuition, are paid in two installments at the beginnings of the fall and spring semesters, and are transmitted directly to the recipient's college or university upon certification of enrollment by that institution.
 
 **Delta Phi Alpha:** German majors can also apply for $1250-2500 scholarships awarded to seniors and juniors by the academic organization Delta Phi Alpha. Eligible students should be a member of Delta Phi Alpha, have demonstrated excellence in the field of German Studies, and intend to further their German studies with research and study abroad in a German-speaking country.
