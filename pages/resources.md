@@ -18,7 +18,7 @@ published: true
 - [Deutschlern.net](http://www.deutschlern.net/index.php)
 - [Deutsch-lernen.com](http://www.deutsch-lernen.com/)
 - [Deutsche Welle: Deutsch lernen](http://www.dw-world.de/dw/0,,2547,00.html)
-- [FSI Language Courses: German](http://fsi-language-courses.org/Content.php?page=German)
+- FSI Language Courses: German
 - [German Festival Calendar](https://www.everfest.com/cultural/german-festivals)
 - [Woerter Blog](http://woerter.germanblogs.de/)
 - [Livemocha](http://www.livemocha.com/)
