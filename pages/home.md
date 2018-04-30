@@ -25,7 +25,7 @@ The German-speaking national block is a leader in job creation, technology, inno
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
+    title="NEED CONTENT OR REMOVE BOXES" 
     content=" " 
     image="" 
     button-link=" " 
@@ -33,7 +33,7 @@ The German-speaking national block is a leader in job creation, technology, inno
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
+      title="NEED CONTENT OR REMOVE BOXES" 
       content=" " 
       image="" 
       button-link=" " 
@@ -41,7 +41,7 @@ The German-speaking national block is a leader in job creation, technology, inno
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
+        title="NEED CONTENT OR REMOVE BOXES" 
         content=" " 
         image="" 
         button-link=" " 
