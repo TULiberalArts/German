@@ -2,7 +2,7 @@
 title: Faculty
 permalink: /faculty/
 layout: faculty2
-keywords: ''
+keywords: 'german, faculty, phd, teaching experience'
 description: >-
 published: true
 ---
