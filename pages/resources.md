@@ -2,7 +2,7 @@
 title: Resources
 permalink: /resources/
 layout: page
-keywords: ''
+keywords: 'german language study, resources'
 description: >-
 published: true
 ---
