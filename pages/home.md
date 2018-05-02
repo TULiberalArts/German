@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description: >- 
-keywords: ''
+keywords: 'academic offerings, major, minor, certificate, german communication'
 feature: true
 feature-title: Study One of the Great World Languages and Leading Western Cultures
 feature-body: >-
