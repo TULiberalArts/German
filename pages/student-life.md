@@ -2,7 +2,7 @@
 title: Student Life
 permalink: "/student-life/"
 layout: page
-keywords: ''
+keywords: 'leipzig, study abroad, courses, requirements, temple german society, delta phi alpha'
 description: >- 
 published: true
 sidebar: true
