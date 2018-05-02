@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: ''
+keywords: 'german, linguistic, culture, learning community, faculty, internships, scholarships'
 description: >-
 published: true
 sidebar: true
