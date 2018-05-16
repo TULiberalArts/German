@@ -6,6 +6,8 @@ keywords: 'careers, visit, apply, transfer'
 description: >-
 published: true
 ---
+Your career possibilities will be many when you earn a bachelor of arts in German degree from the College of Liberal Arts. So, [make your declaration](#make-your-declaration) today. Need some more info first? Come [visit us](#visit-us) on campus, learn about our [transfer](#thinking-about-transferring) opportunities and [application deadlines](#deadlines) and then [apply](#apply)!
+
 ## What Can I do with a Bachelor of Arts in German?
 The B.A. in German is an interdisciplinary liberal arts degree, providing students with concrete language proficiency skills and with the knowledge base and the intellectual, communication, and interpersonal skills essential to success in any career.
 
