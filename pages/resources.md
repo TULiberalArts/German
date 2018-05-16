@@ -6,6 +6,8 @@ keywords: 'german language study, resources'
 description: >-
 published: true
 ---
+Students who need a little help studying toward their German degree at the College of Liberal Arts will find all the [relevant resources](#resources-for-german-language-study) listed below. Give them a look!
+
 ## Resources for German Language Study
 ![TUGS]({{site.baseurl}}/media/resized TUGS logo.jpg){:.img-right}
 - [Nine Free Apps to Teach You German](http://www.young-germany.de/topic/work/language-communication/nine-free-apps-to-teach-you-german)
