@@ -37,6 +37,7 @@ sidebar-content: |
    [(215) 204-1261](tel:2152041261)   
    [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
 ---
+Expand your German education to beyond the classroom! College of Liberal Arts German students can take part in our [summer intensive program](#summer-intensive-german-program-in-leipzig) and study at the University of Leipzig. But you don’t have to leave North Philly to get a great German college experience. Back on campus, you can join the [Temple University German Society](#temple-university-german-society-tugs) or the German Honor Society, [Delta Phi Alpha](#delta-phi-alpha) .
 
 ## Summer Intensive German Program in Leipzig
 ![Study Abroad]({{site.baseurl}}/media/resized Leipzig.jpg){:.img-right}
