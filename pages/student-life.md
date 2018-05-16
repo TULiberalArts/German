@@ -37,7 +37,7 @@ sidebar-content: |
    [(215) 204-1261](tel:2152041261)   
    [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
 ---
-Expand your German education to beyond the classroom! College of Liberal Arts German students can take part in our [summer intensive program](#summer-intensive-german-program-in-leipzig) and study at the University of Leipzig. But you don’t have to leave North Philly to get a great German college experience. Back on campus, you can join the [Temple University German Society](#temple-university-german-society-tugs) or the German Honor Society, [Delta Phi Alpha](#delta-phi-alpha). 
+Expand your German education to beyond the classroom! College of Liberal Arts German students can take part in our [summer intensive program](#summer-intensive-german-program-in-leipzig) and study at the University of Leipzig. You can also take advantage of the upcoming study abroad opprotunity in [Berlin](#study-abroad-in-berlin) for Summer 2019! But you don’t have to leave North Philly to get a great German college experience. Back on campus, you can join the [Temple University German Society](#temple-university-german-society-tugs) or the German Honor Society, [Delta Phi Alpha](#delta-phi-alpha). 
 
 ## Summer Intensive German Program in Leipzig
 ![Study Abroad]({{site.baseurl}}/media/resized Leipzig.jpg){:.img-right}
@@ -67,6 +67,21 @@ The program includes all levels of proficiency, intensive instruction, excursion
 - [Application Deadline](https://studyabroad.temple.edu/application-deadlines) <br>
 
 [APPLY NOW](https://studyabroad.temple.edu/sites/temple-summer-in-germany)
+
+## Study Abroad in Berlin
+![Brandenburg Gate]({{site.baseurl}}/media/resized Brandenburg-Gate.jpg){:.img-right}
+The College of Liberal Arts is offering a 6 week program in Berlin, Germany for Summer 2019! **Registration will open December 2018 so start planning now!** 
+
+Berlin is rich in cultural and historical significance while also being a relatively affordable city that can be home base for other European travel destinations. Berlin's history and culture are unique. As a city reinventing itself as a modern, forward-looking metropolois, it has to also show that it is awrare os its past - specifically World War II, and the division of the city by the Berlin Wall. This is a fascinating juxtaposition of the past and a vital presrnt, illustrated by a vibrant youth culture, numerous galleries and museums and one of the world's great orchestras and concert halls. Berlin finds itself at the political and social center of Europe, and a hun of the discussion surrounding migration and the refugee crisis. It also has one of the best public transport systems to be found anywhere.
+
+### Program Details
+- The program will run from **May 25 to July 6 2019**, based at the Freie Universitat Berlin: International Summer and Winter University (FUBiS)
+- Geramn Language skills are not required as all courses are taught in English
+- Students earn **6 Temple University credits** for this porgram
+- Students will take one course with a faculty member from Temple and choose a second course from classes offered at FUBiS
+- The cost will be regualr course tuition plus a course fee to cover other expenses including; housing and transportation in Berlin.
+
+**_For more information contact [Keith Gumery](mailto:gumery@temple.edu)_**. 
 
 ## Temple University German Society (TUGS)
 ![TUGS]({{site.baseurl}}/media/resized Temple German Society.jpg){:.img-right}
