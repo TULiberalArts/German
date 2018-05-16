@@ -65,8 +65,7 @@ The program includes all levels of proficiency, intensive instruction, excursion
 
 - [Program Dates](https://studyabroad.temple.edu/node/572/) <br>
 - [Application Deadline](https://studyabroad.temple.edu/application-deadlines) <br>
-
-[APPLY NOW](https://studyabroad.temple.edu/sites/temple-summer-in-germany)
+- [APPLY NOW](https://studyabroad.temple.edu/sites/temple-summer-in-germany)
 
 ## Study Abroad in Berlin
 ![Brandenburg Gate]({{site.baseurl}}/media/resized Brandenburg-Gate.jpg){:.img-right}
