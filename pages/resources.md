@@ -1,10 +1,13 @@
 ---
-title: Resources
+# global predefined variables
+layout: tla_page
 permalink: /resources/
-layout: page
+published: true
+# meta-data variables
+title: Resources
 keywords: 'german language study, resources'
 description: >-
-published: true
+# custom variables
 ---
 Students who need a little help studying toward their German degree at the College of Liberal Arts will find all the [relevant resources](#resources-for-german-language-study) listed below. Give them a look!
 

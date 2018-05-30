@@ -1,10 +1,13 @@
 ---
-title: Student Life
-permalink: "/student-life/"
+# global predefined variables
 layout: page
-keywords: 'leipzig, study abroad, courses, requirements, temple german society, delta phi alpha'
-description: >- 
+permalink: "/student-life/"
 published: true
+# meta-data variables
+title: Student Life
+keywords: 'leipzig, study abroad, courses, requirements, temple german society, delta phi alpha'
+description: >-
+# custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -37,7 +40,7 @@ sidebar-content: |
    [(215) 204-1261](tel:2152041261)   
    [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
 ---
-Expand your German education to beyond the classroom! College of Liberal Arts German students can take part in our [summer intensive program](#summer-intensive-german-program-in-leipzig) and study at the University of Leipzig. You can also take advantage of the upcoming study abroad opprotunity in [Berlin](#study-abroad-in-berlin) for Summer 2019! But you don’t have to leave North Philly to get a great German college experience. Back on campus, you can join the [Temple University German Society](#temple-university-german-society-tugs) or the German Honor Society, [Delta Phi Alpha](#delta-phi-alpha). 
+Expand your German education to beyond the classroom! College of Liberal Arts German students can take part in our [summer intensive program](#summer-intensive-german-program-in-leipzig) and study at the University of Leipzig. You can also take advantage of the upcoming study abroad opprotunity in [Berlin](#study-abroad-in-berlin) for Summer 2019! But you don’t have to leave North Philly to get a great German college experience. Back on campus, you can join the [Temple University German Society](#temple-university-german-society-tugs) or the German Honor Society, [Delta Phi Alpha](#delta-phi-alpha).
 
 ## Summer Intensive German Program in Leipzig
 ![Study Abroad]({{site.baseurl}}/media/resized Leipzig.jpg){:.img-right}
@@ -69,7 +72,7 @@ The program includes all levels of proficiency, intensive instruction, excursion
 
 ## Study Abroad in Berlin
 ![Brandenburg Gate]({{site.baseurl}}/media/resized Brandenburg-Gate.jpg){:.img-right}
-The College of Liberal Arts is offering a 6 week program in Berlin, Germany for Summer 2019! **Registration will open December 2018 so start planning now!** 
+The College of Liberal Arts is offering a 6 week program in Berlin, Germany for Summer 2019! **Registration will open December 2018 so start planning now!**
 
 Berlin is rich in cultural and historical significance while also being a relatively affordable city that can be home base for other European travel destinations. Berlin's history and culture are unique. As a city reinventing itself as a modern, forward-looking metropolois, it has to also show that it is awrare os its past - specifically World War II, and the division of the city by the Berlin Wall. This is a fascinating juxtaposition of the past and a vital presrnt, illustrated by a vibrant youth culture, numerous galleries and museums and one of the world's great orchestras and concert halls. Berlin finds itself at the political and social center of Europe, and a hun of the discussion surrounding migration and the refugee crisis. It also has one of the best public transport systems to be found anywhere.
 
@@ -80,7 +83,7 @@ Berlin is rich in cultural and historical significance while also being a relati
 - Students will take one course with a faculty member from Temple and choose a second course from classes offered at FUBiS
 - The cost will be regualr course tuition plus a course fee to cover other expenses including; housing and transportation in Berlin.
 
-**_For more information contact [Keith Gumery](mailto:gumery@temple.edu)_**. 
+**_For more information contact [Keith Gumery](mailto:gumery@temple.edu)_**.
 
 ## Temple University German Society (TUGS)
 ![TUGS]({{site.baseurl}}/media/resized Temple German Society.jpg){:.img-right}

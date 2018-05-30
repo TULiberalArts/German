@@ -1,18 +1,20 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
-description: >- 
+published: true
+# meta-data variables
+title: Home
+description: >-
 keywords: 'academic offerings, major, minor, certificate, german communication'
+# custom variables
 feature: true
 feature-title: Study One of the Great World Languages and Leading Western Cultures
 feature-body: >-
-  Temple’s German program provides broad linguistic, cultural, and practical experiences 
-  to prepare students to participate meaningfully in the German-speaking world, be it in 
+  Temple’s German program provides broad linguistic, cultural, and practical experiences
+  to prepare students to participate meaningfully in the German-speaking world, be it in
   graduate school, the professions or business.
 feature-image: media/German hero.jpg
-published: true
-
 ---
 Temple’s German program provides broad linguistic, cultural, and practical experiences to prepare students to participate meaningfully in the German-speaking world, be it in graduate school, the professions or business.
 
@@ -26,27 +28,27 @@ The German-speaking national block is a leader in job creation, technology, inno
  - [Certificate in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/certificate-german/)
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="NEED CONTENT OR REMOVE BOXES" 
-    content=" " 
-    image="" 
-    button-link=" " 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="NEED CONTENT OR REMOVE BOXES"
+    content=" "
+    image=""
+    button-link=" "
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="NEED CONTENT OR REMOVE BOXES" 
-      content=" " 
-      image="" 
-      button-link=" " 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="NEED CONTENT OR REMOVE BOXES"
+      content=" "
+      image=""
+      button-link=" "
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="NEED CONTENT OR REMOVE BOXES" 
-        content=" " 
-        image="" 
-        button-link=" " 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="NEED CONTENT OR REMOVE BOXES"
+        content=" "
+        image=""
+        button-link=" "
         button-text="Learn More" %}
       </div>
 </div>
