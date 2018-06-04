@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
+  Take part in our summer intensive program and study at the University of Leipzig, or study abroad in Berlin.
+  Join the Temple University German Society, or the German Honor Society, Delta Phi Alpha, at the College of Liberal Arts.
 keywords: 'leipzig, study abroad, courses, requirements, temple german society, delta phi alpha'
 # custom variables
 # custom variables
