@@ -6,6 +6,7 @@ published: true
 # meta-data variables
 title: Home
 description: >-
+  Learn about a leading economic power in the world community: study German at Temple University in the College of Liberal Arts.
 keywords: 'academic offerings, major, minor, certificate, german communication'
 # custom variables
 feature: true
