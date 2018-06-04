@@ -7,6 +7,7 @@ published: true
 title: Resources
 keywords: 'german language study, resources'
 description: >-
+  Search through our resources to aide in your success of studying German at Temple University’s College of Liberal Arts.
 # custom variables
 ---
 Students who need a little help studying toward their German degree at the College of Liberal Arts will find all the [relevant resources](#resources-for-german-language-study) listed below. Give them a look!
