@@ -1,44 +1,16 @@
 ---
 # global predefined variables
-layout: page
-permalink: "/student-life/"
+layout: tla_page
+permalink: /student-life/
 published: true
 # meta-data variables
 title: Student Life
-keywords: 'leipzig, study abroad, courses, requirements, temple german society, delta phi alpha'
 description: >-
+keywords: 'leipzig, study abroad, courses, requirements, temple german society, delta phi alpha'
+# custom variables
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Cristina Gragnani  
-   537 Anderson Hall  
-   [(215) 204-1816](tel:2152041816)  
-   [gragnani@temple.edu](mailto:gragnani@temple.edu)  
-   
-   ___
-   
-   **Faculty Advisor:**  
-   Anthony Waskie  
-   513 Anderson Hall   
-   [(215) 204-5452](tel:2152045452)  
-   [awaski01@temple.edu](mailto:awaski01@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Stephanie Smith  
-   539 Anderson Hall    
-   [(215) 204-1261](tel:2152041261)   
-   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
+sidebar_content: sidebars/student-life.html
 ---
 Expand your German education to beyond the classroom! College of Liberal Arts German students can take part in our [summer intensive program](#summer-intensive-german-program-in-leipzig) and study at the University of Leipzig. You can also take advantage of the upcoming study abroad opprotunity in [Berlin](#study-abroad-in-berlin) for Summer 2019! But you don’t have to leave North Philly to get a great German college experience. Back on campus, you can join the [Temple University German Society](#temple-university-german-society-tugs) or the German Honor Society, [Delta Phi Alpha](#delta-phi-alpha).
 
