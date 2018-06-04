@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
+  Earn a BA, minor, or certificate in German from Temple University’s College of Liberal Arts.
+  Apply for internships and win scholarships and awards.
 keywords: 'german, linguistic, culture, learning community, faculty, internships, scholarships'
 # custom variables
 sidebar: true
