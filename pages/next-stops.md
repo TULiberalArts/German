@@ -7,6 +7,7 @@ published: true
 title: Next Stops
 keywords: 'careers, visit, apply, transfer'
 description: >-
+  See where a bachelor of arts in German from Temple University’s College of Liberal Arts can take you. Visit us, learn about transfer opportunities and application deadlines, and apply.
 # custom variables
 ---
 Your career possibilities will be many when you earn a bachelor of arts in German degree from the College of Liberal Arts. So, [make your declaration](#make-your-declaration) today. Need some more info first? Come [visit us](#visit-us) on campus, learn about our [transfer](#thinking-about-transferring) opportunities and [application deadlines](#deadlines) and then [apply](#apply)!
