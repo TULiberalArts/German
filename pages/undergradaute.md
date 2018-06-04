@@ -1,44 +1,15 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
 title: Undergraduate
-keywords: 'german, linguistic, culture, learning community, faculty, internships, scholarships'
 description: >-
+keywords: 'german, linguistic, culture, learning community, faculty, internships, scholarships'
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Cristina Gragnani  
-   537 Anderson Hall  
-   [(215) 204-1816](tel:2152041816)  
-   [gragnani@temple.edu](mailto:gragnani@temple.edu)  
-   
-   ___
-   
-   **Faculty Advisor:**  
-   Anthony Waskie  
-   513 Anderson Hall   
-   [(215) 204-5452](tel:2152045452)  
-   [awaski01@temple.edu](mailto:awaski01@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   Stephanie Smith  
-   539 Anderson Hall    
-   [(215) 204-1261](tel:2152041261)   
-   [ssmith14@temple.edu](mailto:ssmith14@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 The College of Liberal Arts’ German degree program features a caring learning community and an outstanding [faculty](#outstanding-faculty). The German Department encourages students to apply for [internships](#internships) and earn [scholarships and awards](#congress-bundestag-internships-and-scholarships).
 
