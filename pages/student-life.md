@@ -48,11 +48,11 @@ The program includes all levels of proficiency, intensive instruction, excursion
 ![Brandenburg Gate]({{site.baseurl}}/media/resized Brandenburg-Gate.jpg){:.img-right}
 The College of Liberal Arts is offering a 6 week program in Berlin, Germany for Summer 2019! **Registration will open December 2018 so start planning now!**
 
-Berlin is rich in cultural and historical significance while also being a relatively affordable city that can be home base for other European travel destinations. Berlin's history and culture are unique. As a city reinventing itself as a modern, forward-looking metropolois, it has to also show that it is awrare os its past - specifically World War II, and the division of the city by the Berlin Wall. This is a fascinating juxtaposition of the past and a vital presrnt, illustrated by a vibrant youth culture, numerous galleries and museums and one of the world's great orchestras and concert halls. Berlin finds itself at the political and social center of Europe, and a hun of the discussion surrounding migration and the refugee crisis. It also has one of the best public transport systems to be found anywhere.
+Berlin is rich in cultural and historical significance while also being a relatively affordable city that can be home base for other European travel destinations. Berlin's history and culture are unique. As a city reinventing itself as a modern, forward-looking metropolois, it has to also show that it is awrare of its past - specifically World War II, and the division of the city by the Berlin Wall. This is a fascinating juxtaposition of the past and a vital present, illustrated by a vibrant youth culture, numerous galleries and museums and one of the world's great orchestras and concert halls. Berlin finds itself at the political and social center of Europe, and a hun of the discussion surrounding migration and the refugee crisis. It also has one of the best public transport systems to be found anywhere.
 
 ### Program Details
 - The program will run from **May 25 to July 6 2019**, based at the Freie Universitat Berlin: International Summer and Winter University (FUBiS)
-- Geramn Language skills are not required as all courses are taught in English
+- German Language skills are not required as all courses are taught in English
 - Students earn **6 Temple University credits** for this porgram
 - Students will take one course with a faculty member from Temple and choose a second course from classes offered at FUBiS
 - The cost will be regualr course tuition plus a course fee to cover other expenses including; housing and transportation in Berlin.
