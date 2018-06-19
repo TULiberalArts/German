@@ -36,7 +36,7 @@ Smaller class size and innovative teaching techniques and use of technology allo
 ## Internships
 We encourage students to apply to participate in an internship in a German-speaking country. There are several types of internships German majors have successfully applied to in the past. Fulbright Teaching Assistantships: In the past 12 years, more than ten students in the German Program have successfully completed a one-year assistantship in teaching English as a foreign language in a German-speaking country.
 
-German-American Chamber of Commerce: Several students have participated in paid summer internships in Germany through the German-American Chamber of Commerce, examples include Marta Sydoyak (2013) and Christopher Fry (2014).
+German-American Chamber of Commerce: Several students have participated in paid summer internships in Germany through the German-American Chamber of Commerce. Examples include Marta Sydoyak (2013) and Christopher Fry (2014).
 
 ## Congress Bundestag Internships and Scholarships
 **German Professor’s Prize:** This annual award is given by the Department of French, German, Italian, Slavic to the most outstanding members of the graduating class in recognition of excellence in German studies.
