@@ -5,7 +5,8 @@ title: German
 baseurl: /german
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
+# url spits sitemap
+url: https://www.cla.temple.edu/german
 
 # Program Information
 # Short tagline for tweets (<100 characters)
