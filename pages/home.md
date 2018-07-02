@@ -30,10 +30,10 @@ The German-speaking national block is a leader in job creation, technology, inno
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
-    title="NEED CONTENT OR REMOVE BOXES"
-    content=" "
+    title="Summer Intensive German Program in Leipzig"
+    content="NEED A DESCRIPTION"
     image=""
-    button-link=" "
+    button-link="/german/student-life#summer-intensive-german-program-in-leipzig"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
