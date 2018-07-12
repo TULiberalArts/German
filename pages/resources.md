@@ -47,7 +47,7 @@ ___
 - [Germany Today: Intensive Study of German Language and Culture](http://www.onlinecourses.com/language/)
 - [Radio Lingua German Materials](http://radiolingua.com/shows/german/)
 - [Populearn German](http://www.populearn.com/german/)
-- [Deutschlern.net](http://www.deutschlern.net/index.php)
+- Deutschlern.net- BROKEN LINK
 - [Deutsch-lernen.com](http://www.deutsch-lernen.com/)
 - [Deutsche Welle: Deutsch lernen](http://www.dw-world.de/dw/0,,2547,00.html)
 - FSI Language Courses: German
