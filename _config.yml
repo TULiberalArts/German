@@ -36,9 +36,10 @@ university:
   url: https://temple.edu/
 college:
   name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/  
+  url: https://liberalarts.temple.edu/
+  
 program_news: https://liberalarts.temple.edu/news/german
-program_events: https://events.temple.edu/department/german 
+program_events: https://events.temple.edu/department/german
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/german/csv
