@@ -44,6 +44,8 @@ The program includes all levels of proficiency, intensive instruction, excursion
 - [Application Deadline](https://studyabroad.temple.edu/application-deadlines) <br>
 - [APPLY NOW](https://studyabroad.temple.edu/sites/temple-summer-in-germany)
 
+___
+
 ## Study Abroad in Berlin
 ![Brandenburg Gate]({{site.baseurl}}/media/resized Brandenburg-Gate.jpg){:.img-right}
 The College of Liberal Arts is offering a 6 week program in Berlin, Germany for Summer 2019! **Registration will open December 2018 so start planning now!**
@@ -59,6 +61,8 @@ Berlin is rich in cultural and historical significance while also being a relati
 
 **_For more information contact [Keith Gumery](mailto:gumery@temple.edu)_**.
 
+___
+
 ## Temple University German Society (TUGS)
 ![TUGS]({{site.baseurl}}/media/resized Temple German Society.jpg){:.img-right}
 TUGS meets on Wednesdays at 4:00pm in 506 Anderson Hall. All are welcome to attend and participate!
@@ -70,6 +74,8 @@ Members of the German Society meet together in activities outside the classroom.
 - Secretary: Samuel Cook
 - Events Coordinator: Gabe Neely
 - Faculty Advisor: [Dr. Anthony Waskie](mailto:awaski01@temple.edu)
+
+___
 
 ## German DELTA PHI ALPHA
 Delta Phi Alpha National German Honor Society, Gamma Omicron Chapter
