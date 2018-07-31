@@ -12,7 +12,7 @@ description: >-
 ---
 Your career possibilities will be many when you earn a bachelor of arts in German degree from the College of Liberal Arts. So, [make your declaration](#make-your-declaration) today. Need some more info first? Come [visit us](#visit-us) on campus, learn about our [transfer](#thinking-about-transferring) opportunities and [application deadlines](#deadlines) and then [apply](#apply)!
 
-## What Can I do with a Bachelor of Arts in German?
+## What Can I Do with a Bachelor of Arts in German?
 The B.A. in German is an interdisciplinary liberal arts degree, providing students with concrete language proficiency skills and with the knowledge base and the intellectual, communication, and interpersonal skills essential to success in any career.
 
 Students of German at Temple University will achieve  real communications skills that are in-demand in our  increasingly complex and global society. Such language skills will  contribute to an increased opportunity within international based organizations and businesses. German language skills will open doors across many fields and  professions, including: education, journalism, government service, non profits, business, travel and tourism,  translation, the arts, public relations, health care, military, international law, and the sciences.
@@ -23,7 +23,7 @@ The College of Liberal Arts has the largest selection of  academic offerings at 
 For a complete list of our academic offerings visit [liberalarts.temple.edu](https://liberalarts.temple.edu/).
 
 ## Visit Us
-The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](https://admissions.temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day.
+The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](https://admissions.temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand, you can take advantage of the various visit  opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
 ## Thinking of Transferring?
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
