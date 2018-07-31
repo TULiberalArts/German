@@ -28,28 +28,4 @@ The German-speaking national block is a leader in job creation, technology, inno
  - [Minor in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-german/)
  - [Certificate in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/certificate-german/)
 
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
-    title="Summer Intensive German Program in Leipzig"
-    content="NEED A DESCRIPTION"
-    image=""
-    button-link="/german/student-life#summer-intensive-german-program-in-leipzig"
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
-      title="NEED CONTENT OR REMOVE BOXES"
-      content=" "
-      image=""
-      button-link=" "
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
-        title="NEED CONTENT OR REMOVE BOXES"
-        content=" "
-        image=""
-        button-link=" "
-        button-text="Learn More" %}
-      </div>
-</div>
+___
