@@ -21,9 +21,10 @@ feature-image: media/German hero.jpg
 The German-speaking national block is a leader in job creation, technology, innovation and creativity in the global arena. An education in German helps students achieve their learning goals, whether they want to engage in business with German partners, work in government, in media or participate in German culture. Our students develop skills in reading, writing and oral communication while acquiring a rich understanding of the literature, cinema, history and culture of the German-speaking world.
 
 ## Academic offerings
-
- - [BA in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/ba-german/)
- - [Minor in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-german/)
- - [Certificate in German](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-german/)
+- [Bachelor of Arts in German Language and Cultural Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/german/ba-german-languange-cultural-studies/)
+- [Bachelor of Arts in Interdisciplinary German Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/german/ba-interdisciplinary-german-studies/)
+- [Minor in German Language and Cultural Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-german-languange-cultural-studies/)
+- [Minor in Interdisciplinary German Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-interdisciplinary-german-studies/)
+- [Certificate in German](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-german/)
 
 ___
