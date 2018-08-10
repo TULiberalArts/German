@@ -16,14 +16,15 @@ sidebar_content: sidebars/undergraduate.html
 The College of Liberal Arts’ German degree program features a caring learning community and an outstanding [faculty](#outstanding-faculty). The German Department encourages students to apply for [internships](#internships) and earn [scholarships and awards](#congress-bundestag-internships-and-scholarships).
 
 ## German Program Overview
-![Geramn Students]({{site.baseurl}}/media/resized Waskie and students.jpg){:.img-right}
+![German Students]({{site.baseurl}}/media/resized Waskie and students.jpg){:.img-right}
 German is a major world language spoken in Germany, Austria, and Switzerland, and in sections of other countries (e.g. Alsace) as well as in communities throughout the world. Whether you are interested in economics, history, literature, music, theater, film, or art, German culture has a rich and exciting tradition. Temple’s German program provides broad linguistic, cultural, and practical experiences to prepare students to participate meaningfully in the German-speaking world, be it in graduate school, the professions, or business.
 
 In the course of their studies, students develop skills in reading, writing, and oral communication as they engage with the German language through literature, media and arts. Advanced classes explore culture and history as they shape German identities, providing students with an understanding of current German-speaking cultures through the analytical lenses of language, literature, cinema and history. Majors complete the program with an in-depth understanding of the history, cinema, art and culture of German-speaking people in a globalized world, and with an awareness of how language shapes peoples’ cultures.
 
-- Learn More about the [BA in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/ba-german/)
-- Learn More about the [Minor in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-german/)
-- Learn More about the [Certificate in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/certificate-german/)
+- Learn More about the [Bachelor of Arts in German Language and Cultural Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/german/ba-german-languange-cultural-studies/)
+- Learn More about the [Bachelor of Arts in Interdisciplinary German Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/german/ba-interdisciplinary-german-studies/)
+- Learn More about the [Minor in German Language and Cultural Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-german-languange-cultural-studies/)
+- Learn More about the [Minor in Interdisciplinary German Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-interdisciplinary-german-studies/)
 
 ## A Caring Learning Community
 Students of German at Temple University are part of a  vibrant, dynamic and successful community within the  greater university setting. A Temple German student has  one-on-one access to faculty, as well as other students interested in German language and culture. This interest can be explored in our Temple University German Society (TUGS) and contacts with the German ethnic community of the  Philadelphia region. Some examples are: the German Society of Pennsylvania, German-American Chamber of Commerce, Cannstatter V.V. and the Philadelphia German-American Committee.
