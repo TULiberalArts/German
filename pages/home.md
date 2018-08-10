@@ -24,6 +24,6 @@ The German-speaking national block is a leader in job creation, technology, inno
 
  - [BA in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/ba-german/)
  - [Minor in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/minor-german/)
- - [Certificate in German](http://bulletin.temple.edu/undergraduate/liberal-arts/german/certificate-german/)
+ - [Certificate in German](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-german/)
 
 ___
