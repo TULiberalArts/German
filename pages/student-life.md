@@ -17,7 +17,7 @@ sidebar_content: sidebars/student-life.html
 Expand your German education to beyond the classroom! College of Liberal Arts German students can take part in our [summer intensive program](#summer-intensive-german-program-in-leipzig) and study at the University of Leipzig. You can also take advantage of the upcoming study abroad opportunity in [Berlin](#study-abroad-in-berlin) for Summer 2019! But you don’t have to leave North Philly to get a great German college experience. Back on campus, you can join the [Temple University German Society](#temple-university-german-society-tugs) or the German Honor Society, [Delta Phi Alpha](#delta-phi-alpha).
 
 ## Summer Intensive German Program in Leipzig
-![Study Abroad]({{site.baseurl}}/media/resized Leipzig.jpg){:.img-right}
+![Study Abroad]({{site.baseurl}}/media/resized Leipzig.jpg){:.responsive-img .img-right}
 Students declaring a major or minor in the department are strongly encouraged to study abroad. Options include semester or year long exchange programs at the universities of Hamburg and Tübingen as well as the summer intensive German program in Leipzig. Courses completed in these programs may be credited toward the German major or minor and in partial satisfaction of the International Studies requirement.
 
 ### About Leipzig
@@ -35,7 +35,7 @@ During the first week of the program students will participate in an orientation
 Eligibility and application requirements are listed online through the [Office of Education Abroad and Overseas Campuses](http://studyabroad.temple.edu/temple-summer-in-germany-application-requirements). Please note, students must have successfully completed one semester of German language at the university level. Courses, costs, policies and programs are subject to change.
 
 ## Herder Institut InterDaf at the University of Leipzig
-![Leipzig]({{site.baseurl}}/media/resized Goethe-Statue-Leipzig.jpg){:.img-right}
+![Leipzig]({{site.baseurl}}/media/resized Goethe-Statue-Leipzig.jpg){:.responsive-img .img-right}
 This is a four-week program of intensive German language instruction on a level commensurate with the student’s skills from ‘beginner’ to ‘advanced’, which will be taught at the Herder Institute InterDaf of the University of Leipzig in the German state of Saxony. Included will be tours and overnight excursions, as well as intensive instruction leading to four Temple credits. The Herder Institute has over 60 years of excellence in advancing German Language skills, as well as teaching about the culture and civilization of Germany.
 
 The program includes all levels of proficiency, intensive instruction, excursions, cultural programs, meet and greets with German students, and tours of Old University City. Leipzig is the City of Bach, Goethe & Schiller, Wagner, Mendelssohn, Handel, Grieg, and many others. Spend your summer speaking German in Leipzig!
@@ -47,7 +47,7 @@ The program includes all levels of proficiency, intensive instruction, excursion
 ___
 
 ## Study Abroad in Berlin
-![Brandenburg Gate]({{site.baseurl}}/media/resized Brandenburg-Gate.jpg){:.img-right}
+![Brandenburg Gate]({{site.baseurl}}/media/resized Brandenburg-Gate.jpg){:.responsive-img .img-right}
 The College of Liberal Arts is offering a 6 week program in Berlin, Germany for Summer 2019! **Registration will open December 2018 so start planning now!**
 
 Berlin is rich in cultural and historical significance while also being a relatively affordable city that can be home base for other European travel destinations. Berlin's history and culture are unique. As a city reinventing itself as a modern, forward-looking metropolois, it has to also show that it is aware of its past - specifically World War II, and the division of the city by the Berlin Wall. This is a fascinating juxtaposition of the past and a vital present, illustrated by a vibrant youth culture, numerous galleries and museums and one of the world's great orchestras and concert halls. Berlin finds itself at the political and social center of Europe, and a hun of the discussion surrounding migration and the refugee crisis. It also has one of the best public transport systems to be found anywhere.
@@ -64,7 +64,7 @@ Berlin is rich in cultural and historical significance while also being a relati
 ___
 
 ## Temple University German Society (TUGS)
-![TUGS]({{site.baseurl}}/media/resized Temple German Society.jpg){:.img-right}
+![TUGS]({{site.baseurl}}/media/resized Temple German Society.jpg){:.responsive-img .img-right}
 TUGS meets on Wednesdays at 4:00pm in 506 Anderson Hall. All are welcome to attend and participate!
 
 Members of the German Society meet together in activities outside the classroom. Events include movie nights, visits to traditional German restaurants, hosting German students, speakers, parades and a variety of other German culture focused programs. Our members also offer peer tutoring, conversation practice and study help to further learning and interest in the German language. This helps students be better prepared for the classroom. The only requirement for membership is a desire to expand one’s knowledge about the German culture and language in a social atmosphere. If you are interested and would like more information, visit us online or email us so that we may update you on upcoming German Society events.
