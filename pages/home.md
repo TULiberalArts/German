@@ -10,7 +10,7 @@ description: >-
 keywords: 'academic offerings, major, minor, certificate, german communication'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-image: media/German hero.jpg
 ---

@@ -10,8 +10,8 @@ description: >-
   Apply for internships and win scholarships and awards.
 keywords: 'german, linguistic, culture, learning community, faculty, internships, scholarships'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 The College of Liberal Arts’ German degree program features a caring learning community and an outstanding [faculty](#outstanding-faculty). The German Department encourages students to apply for [internships](#internships) and earn [scholarships and awards](#congress-bundestag-internships-and-scholarships).
 

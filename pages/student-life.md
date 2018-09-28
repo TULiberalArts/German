@@ -11,8 +11,8 @@ description: >-
 keywords: 'leipzig, study abroad, courses, requirements, temple german society, delta phi alpha'
 # custom variables
 # custom variables
-sidebar: true
-sidebar_content: sidebars/student-life.html
+
+sidebar: sidebars/student-life.html
 ---
 Expand your German education to beyond the classroom! College of Liberal Arts German students can take part in our [summer intensive program](#summer-intensive-german-program-in-leipzig) and study at the University of Leipzig. You can also take advantage of the upcoming study abroad opportunity in [Berlin](#study-abroad-in-berlin) for Summer 2019! But you don’t have to leave North Philly to get a great German college experience. Back on campus, you can join the [Temple University German Society](#temple-university-german-society-tugs) or the German Honor Society, [Delta Phi Alpha](#delta-phi-alpha).
 
