@@ -7,7 +7,7 @@ German is statically generated with [Jekyll](https://jekyllrb.com) and hosted by
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/german/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/german/ |
 
 ## Content Structure
 
