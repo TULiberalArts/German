@@ -33,8 +33,8 @@ A passing grade is given if the passage is translated completely with an accurac
 
 For additional information on language translation exams, please contact the appropriate exam proctor below.
 
-- Italian (Fall): [Anthony Waskie](mailto:awaski01@temple.edu)
-- Italian (Spring): [Anthony Waskie](awaski01@temple.edu)
+- German (Fall): [Anthony Waskie](mailto:awaski01@temple.edu)
+- German (Spring): [Anthony Waskie](mailto:awaski01@temple.edu)
 
 ___
 
