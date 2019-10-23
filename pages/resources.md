@@ -9,6 +9,7 @@ keywords: 'german language study, resources'
 description: >-
   Search through our resources to aide in your success of studying German at Temple University’s College of Liberal Arts.
 # custom variables
+sidebar: sidebars/undergraduate.html
 ---
 Students who need a little help studying toward their German degree at the College of Liberal Arts will find all the [relevant resources](#resources-for-german-language-study) listed below. Give them a look!
 
@@ -33,8 +34,8 @@ A passing grade is given if the passage is translated completely with an accurac
 
 For additional information on language translation exams, please contact the appropriate exam proctor below.
 
-- German (Fall): [Anthony Waskie](mailto:awaski01@temple.edu)
-- German (Spring): [Anthony Waskie](mailto:awaski01@temple.edu)
+- German (Fall): [Patricia Melzer](mailto:pmelzer@temple.edu)
+- German (Spring): [Patricia Melzer](mailto:pmelzer@temple.edu)
 
 ___
 
