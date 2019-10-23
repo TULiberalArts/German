@@ -69,11 +69,7 @@ TUGS meets on Wednesdays at 4:00pm in 506 Anderson Hall. All are welcome to atte
 
 Members of the German Society meet together in activities outside the classroom. Events include movie nights, visits to traditional German restaurants, hosting German students, speakers, parades and a variety of other German culture focused programs. Our members also offer peer tutoring, conversation practice and study help to further learning and interest in the German language. This helps students be better prepared for the classroom. The only requirement for membership is a desire to expand one’s knowledge about the German culture and language in a social atmosphere. If you are interested and would like more information, visit us online or email us so that we may update you on upcoming German Society events.
 
-- President: [Mikayla Appell](mailto:tue61733@temple.edu)
-- Treasurer: Lauren Weller
-- Secretary: Samuel Cook
-- Events Coordinator: Gabe Neely
-- Faculty Advisor: [Dr. Anthony Waskie](mailto:awaski01@temple.edu)
+- Faculty Advisor: [Jamie Zelechowski](mailto:jamie.zelechowski@temple.edu)
 
 ___
 
