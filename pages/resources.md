@@ -34,8 +34,8 @@ A passing grade is given if the passage is translated completely with an accurac
 
 For additional information on language translation exams, please contact the appropriate exam proctor below.
 
-- German (Fall): [Patricia Melzer](mailto:pmelzer@temple.edu)
-- German (Spring): [Patricia Melzer](mailto:pmelzer@temple.edu)
+- German (Fall): [Istvan Varkonyi](mailto:istvan.varkonyi@temple.edu)
+- German (Spring): [Istvan Varkonyi](mailto:istvan.varkonyi@temple.edu)
 
 ___
 
