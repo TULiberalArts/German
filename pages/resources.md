@@ -50,7 +50,7 @@ ___
 - [Populearn German](http://www.populearn.com/german/)
 - Deutschlern.net
 - [Deutsch-lernen.com](http://www.deutsch-lernen.com/)
-- [Deutsche Welle: Deutsch lernen](http://www.dw-world.de/dw/0,,2547,00.html)
+- Deutsche Welle: Deutsch lernen
 - FSI Language Courses: German
 - [German Festival Calendar](https://www.everfest.com/cultural/german-festivals)
 - [Woerter Blog](http://woerter.germanblogs.de/)
