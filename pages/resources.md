@@ -47,7 +47,7 @@ ___
 - [German Blog: Language and Culture](http://www.transparent.com/german/)
 - [Germany Today: Intensive Study of German Language and Culture](http://www.onlinecourses.com/language/)
 - [Radio Lingua German Materials](http://radiolingua.com/shows/german/)
-- [Populearn German](http://www.populearn.com/german/)
+- Populearn German
 - Deutschlern.net
 - [Deutsch-lernen.com](http://www.deutsch-lernen.com/)
 - Deutsche Welle: Deutsch lernen
