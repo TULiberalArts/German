@@ -36,9 +36,9 @@ Eligibility and application requirements are listed online through the [Office o
 
 ## Herder Institut InterDaf at the University of Leipzig
 ![Leipzig]({{site.baseurl}}/media/resized Goethe-Statue-Leipzig.jpg){:.responsive-img .img-right}
-This is a four-week program of intensive German language instruction on a level commensurate with the student’s skills from ‘beginner’ to ‘advanced’, which will be taught at the Herder Institute InterDaf of the University of Leipzig in the German state of Saxony. Included will be tours and overnight excursions, as well as intensive instruction leading to four Temple credits. The Herder Institute has over 60 years of excellence in advancing German Language skills, as well as teaching about the culture and civilization of Germany.
+This is a four-week program of intensive German language instruction on a level commensurate with the student’s skills from “beginner” to “advanced,” which is taught at the the University of Leipzig’s Herder Institute InterDaf. Included are tours and overnight excursions as well as intensive instruction leading to four Temple credits. The Herder Institute has over 60 years of excellence in advancing German Language skills, as well as teaching about the culture and civilization of Germany.
 
-The program includes all levels of proficiency, intensive instruction, excursions, cultural programs, meet and greets with German students, and tours of Old University City. Leipzig is the City of Bach, Goethe & Schiller, Wagner, Mendelssohn, Handel, Grieg, and many others. Spend your summer speaking German in Leipzig!
+The program includes all levels of proficiency, intensive instruction, excursions, cultural programs, meet and greets with German students, and tours of Old University City. Leipzig is the City of Bach, Goethe and Schiller, Wagner, Mendelssohn, Handel, Grieg, and many others. Spend your summer speaking German in Leipzig!
 
 - [Program Dates](https://studyabroad.temple.edu/node/572/) <br>
 - [Application Deadline](https://studyabroad.temple.edu/application-deadlines) <br>
@@ -48,16 +48,16 @@ ___
 
 ## Study Abroad in Berlin
 ![Brandenburg Gate]({{site.baseurl}}/media/resized Brandenburg-Gate.jpg){:.responsive-img .img-right}
-The College of Liberal Arts is offering a 6 week program in Berlin, Germany for Summer 2019! **Registration will open December 2018 so start planning now!**
+The College of Liberal Arts offers a six-week summer program in Berlin, Germany! **Registration opens every December, so start planning now!**
 
-Berlin is rich in cultural and historical significance while also being a relatively affordable city that can be home base for other European travel destinations. Berlin's history and culture are unique. As a city reinventing itself as a modern, forward-looking metropolois, it has to also show that it is aware of its past - specifically World War II, and the division of the city by the Berlin Wall. This is a fascinating juxtaposition of the past and a vital present, illustrated by a vibrant youth culture, numerous galleries and museums and one of the world's great orchestras and concert halls. Berlin finds itself at the political and social center of Europe, and a hun of the discussion surrounding migration and the refugee crisis. It also has one of the best public transport systems to be found anywhere.
+Berlin is rich in cultural and historical significance while also being a relatively affordable city that can be home base for other European travel destinations. As a city reinventing itself as a modern, forward-looking metropolis, it has to also show that it is aware of its past—specifically World War II—and the Berlin Wall dividing the city. This is a fascinating juxtaposition of the past and a vital present, illustrated by vibrant youth culture, numerous galleries and museums, and one of the world’s great orchestras and concert halls. Berlin finds itself at the political and social center of Europe and a hun of the discussion surrounding migration and the refugee crisis. It also has one of the best public transport systems to be found anywhere.
 
 ### Program Details
-- The program will run from **May 25 to July 6 2019**, based at the Freie Universitat Berlin: International Summer and Winter University (FUBiS)
+- The program will run from **May 25 to July 6, 2019,** based at the Freie Universitat Berlin: International Summer and Winter University (FUBiS)
 - German Language skills are not required as all courses are taught in English
-- Students earn **6 Temple University credits** for this porgram
-- Students will take one course with a faculty member from Temple and choose a second course from classes offered at FUBiS
-- The cost will be regular course tuition plus a course fee to cover other expenses including; housing and transportation in Berlin.
+- Students **earn six Temple University credits** for this program
+- Students will take one course with a Temple faculty member and choose a second course from classes offered at FUBiS
+- The cost will be regular course tuition plus a course fee to cover housing, transportation, etc. in Berlin.
 
 **_For more information contact [Keith Gumery](mailto:gumery@temple.edu)_**.
 
