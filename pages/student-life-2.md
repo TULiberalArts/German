@@ -35,9 +35,9 @@ Eligibility and application requirements are listed online through the [Office o
 
 ## Herder Institut InterDaf at the University of Leipzig
 ![Leipzig]({{site.baseurl}}/media/resized Goethe-Statue-Leipzig.jpg){:.responsive-img .img-right}
-This is a four-week program of intensive German language instruction on a level commensurate with the student’s skills from ‘beginner’ to ‘advanced’, which will be taught at the Herder Institute InterDaf of the University of Leipzig in the German state of Saxony. Included will be tours and overnight excursions, as well as intensive instruction leading to four Temple credits. The Herder Institute has over 60 years of excellence in advancing German Language skills, as well as teaching about the culture and civilization of Germany.
+This is a four-week program of intensive German language instruction on a level commensurate with the student’s skills from “beginner” to “advanced,” which is taught at the the University of Leipzig’s Herder Institute InterDaf. Included are tours and overnight excursions as well as intensive instruction leading to four Temple credits. The Herder Institute has over 60 years of excellence in advancing German Language skills, as well as teaching about the culture and civilization of Germany.
 
-The program includes all levels of proficiency, intensive instruction, excursions, cultural programs, meet and greets with German students, and tours of Old University City. Leipzig is the City of Bach, Goethe & Schiller, Wagner, Mendelssohn, Handel, Grieg, and many others. Spend your summer speaking German in Leipzig!
+The program includes all levels of proficiency, intensive instruction, excursions, cultural programs, meet and greets with German students, and tours of Old University City. Leipzig is the City of Bach, Goethe and Schiller, Wagner, Mendelssohn, Handel, Grieg, and many others. Spend your summer speaking German in Leipzig!
 
 - [Program Dates](https://studyabroad.temple.edu/node/572/) <br>
 - [Application Deadline](https://studyabroad.temple.edu/application-deadlines) <br>
@@ -47,16 +47,16 @@ ___
 
 ## Study Abroad in Berlin
 ![Brandenburg Gate]({{site.baseurl}}/media/resized Brandenburg-Gate.jpg){:.responsive-img .img-right}
-The College of Liberal Arts is offering a 6 week program in Berlin, Germany for Summer 2019! **Registration will open December 2018 so start planning now!**
+The College of Liberal Arts offers a six-week summer program in Berlin, Germany! **Registration opens every December, so start planning now!**
 
-Berlin is rich in cultural and historical significance while also being a relatively affordable city that can be home base for other European travel destinations. Berlin's history and culture are unique. As a city reinventing itself as a modern, forward-looking metropolois, it has to also show that it is aware of its past - specifically World War II, and the division of the city by the Berlin Wall. This is a fascinating juxtaposition of the past and a vital present, illustrated by a vibrant youth culture, numerous galleries and museums and one of the world's great orchestras and concert halls. Berlin finds itself at the political and social center of Europe, and a hun of the discussion surrounding migration and the refugee crisis. It also has one of the best public transport systems to be found anywhere.
+Berlin is rich in cultural and historical significance while also being a relatively affordable city that can be home base for other European travel destinations. As a city reinventing itself as a modern, forward-looking metropolis, it has to also show that it is aware of its past—specifically World War II—and the Berlin Wall dividing the city. This is a fascinating juxtaposition of the past and a vital present, illustrated by vibrant youth culture, numerous galleries and museums, and one of the world’s great orchestras and concert halls. Berlin finds itself at the political and social center of Europe and a hun of the discussion surrounding migration and the refugee crisis. It also has one of the best public transport systems to be found anywhere.
 
 ### Program Details
-- The program will run from **May 25 to July 6 2019**, based at the Freie Universitat Berlin: International Summer and Winter University (FUBiS)
+- The program will run from **May 25 to July 6, 2019,** based at the Freie Universitat Berlin: International Summer and Winter University (FUBiS)
 - German Language skills are not required as all courses are taught in English
-- Students earn **6 Temple University credits** for this porgram
-- Students will take one course with a faculty member from Temple and choose a second course from classes offered at FUBiS
-- The cost will be regular course tuition plus a course fee to cover other expenses including; housing and transportation in Berlin.
+- Students **earn six Temple University credits** for this program
+- Students will take one course with a Temple faculty member and choose a second course from classes offered at FUBiS
+- The cost will be regular course tuition plus a course fee to cover housing, transportation, etc. in Berlin.
 
 **_For more information contact [Keith Gumery](mailto:gumery@temple.edu)_**.
 
@@ -66,9 +66,7 @@ ___
 ![TUGS]({{site.baseurl}}/media/resized Temple German Society.jpg){:.responsive-img .img-right}
 TUGS meets on Wednesdays at 4:00pm in 506 Anderson Hall. All are welcome to attend and participate!
 
-Members of the German Society meet together in activities outside the classroom. Events include movie nights, visits to traditional German restaurants, hosting German students, speakers, parades and a variety of other German culture focused programs. Our members also offer peer tutoring, conversation practice and study help to further learning and interest in the German language. This helps students be better prepared for the classroom. The only requirement for membership is a desire to expand one’s knowledge about the German culture and language in a social atmosphere. If you are interested and would like more information, visit us online or email us so that we may update you on upcoming German Society events.
-
-- Faculty Advisor: [Jamie Zelechowski](mailto:jamie.zelechowski@temple.edu)
+For more info about the society, visit the Student Clubs & Organizations section of the [German Language and Cultural Studies Major page]p(https://www.temple.edu/academics/degree-programs/german-language-and-cultural-studies-major-la-glcs-ba) or contact the faculty advisor, [Jamie Zelechowski](mailto:jamie.zelechowski@temple.edu)
 
 ___
 
@@ -76,8 +74,6 @@ ___
 Delta Phi Alpha National German Honor Society, Gamma Omicron Chapter
 
 Established in 1949 the National German Honor Society, [Delta Phi Alpha](http://www.deltaphialpha.org/), seeks to recognize excellence in the study of German and to provide an incentive for higher scholarship. The Society aims to promote the study of the German language, literature and civilization and endeavors to emphasize those aspects of German life and culture which are of universal value and which contribute to man’s eternal search for peace and truth.
-
-Congratulations to Christiana Jackson (CLA ’11) for receiving a prestigious Fulbright Assistantship to teach in a German School. Christina has now completed her Assistantship successfully. Needless to state, we are very proud of all of our stellar products of the German Department at Temple University! Christiana is a previous recipient of the Delta Phi Alpha National German Honor Society induction; she has been active in our Temple German Society. Well Done!
 
 ### Membership Requirements
 Section 1. Members of chapters shall be chosen from undergraduate and graduate students and/or members of the faculty of the institution where the chapter is located and shall be accredited by their faculty advisors and/or the chairman of the German Department.
@@ -89,3 +85,6 @@ Section 3. Qualifications for student membership shall be as follows:
 - A minimum average standing of B+ or its equivalent in all German courses taken.
 - A minimum of B- or its equivalent in all courses of study at the college and university level.
 - Indication of continued interest in the study of German language and literature.
+
+For more info about Delta Phi Alpha National German Honor Society, Gamma Omicron Chapter, visit the Student Clubs & Organizations section of the [German Language and Cultural Studies Major page](https://www.temple.edu/academics/degree-programs/german-language-and-cultural-studies-major-la-glcs-ba).
+
