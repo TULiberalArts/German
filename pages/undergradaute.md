@@ -30,7 +30,9 @@ German students develop skills in reading, writing, and oral communication as th
 Temple University German students are part of a vibrant, dynamic and successful community within the greater university. A Temple German student has one-on-one access to faculty as well as other students interested in German language and culture. This interest can be explored through the Temple University German Society (TUGS) and contacts with the Greater Philadelphia German ethnic community like: the German Society of Pennsylvania, German-American Chamber of Commerce, Cannstatter V.V. and the Philadelphia German-American Committee.
 
 ## German Certificate Program
-We offer a [German certificate](https://www.temple.edu/academics/degree-programs/german-certificate-undergraduate-la-ger-cr2%2B) that provides students with a foundation in the language. It also introduces courses focused on conversation, reading and and composition. Students strengthen their ability to analyze and interpret the language and culture.
+We offer a German certificate that provides students with a foundation in the language. It also introduces courses focused on conversation, reading and and composition. Students strengthen their ability to analyze and interpret the language and culture.
+
+- Learn More about the [German Certificate](https://www.temple.edu/academics/degree-programs/german-certificate-undergraduate-la-ger-cr2%2B)
 
 ## Outstanding Faculty
 Small class sizes, innovative teaching techniques and technology allows faculty and students to build a close rapport that creates a favorable learning environment that enhances learning. Students are encouraged to interact with faculty, peers and visiting students from German-speaking countries and volunteer tutoring leads to success in acquiring greater proficiency. The faculty strives to help students develop their full German potential. Opportunities to study and work abroad and find a career path that utilizes students’ language skills will be developed and realized.
