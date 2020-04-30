@@ -67,9 +67,7 @@ ___
 ![TUGS]({{site.baseurl}}/media/resized Temple German Society.jpg){:.responsive-img .img-right}
 TUGS meets on Wednesdays at 4:00pm in 506 Anderson Hall. All are welcome to attend and participate!
 
-Members of the German Society meet together in activities outside the classroom. Events include movie nights, visits to traditional German restaurants, hosting German students, speakers, parades and a variety of other German culture focused programs. Our members also offer peer tutoring, conversation practice and study help to further learning and interest in the German language. This helps students be better prepared for the classroom. The only requirement for membership is a desire to expand one’s knowledge about the German culture and language in a social atmosphere. If you are interested and would like more information, visit us online or email us so that we may update you on upcoming German Society events.
-
-- Faculty Advisor: [Jamie Zelechowski](mailto:jamie.zelechowski@temple.edu)
+For more info about the society, visit the Student Clubs & Organizations section of the [German Language and Cultural Studies Major page]p(https://www.temple.edu/academics/degree-programs/german-language-and-cultural-studies-major-la-glcs-ba) or contact the faculty advisor, [Jamie Zelechowski](mailto:jamie.zelechowski@temple.edu)
 
 ___
 
@@ -77,8 +75,6 @@ ___
 Delta Phi Alpha National German Honor Society, Gamma Omicron Chapter
 
 Established in 1949 the National German Honor Society, [Delta Phi Alpha](http://www.deltaphialpha.org/), seeks to recognize excellence in the study of German and to provide an incentive for higher scholarship. The Society aims to promote the study of the German language, literature and civilization and endeavors to emphasize those aspects of German life and culture which are of universal value and which contribute to man’s eternal search for peace and truth.
-
-Congratulations to Christiana Jackson (CLA ’11) for receiving a prestigious Fulbright Assistantship to teach in a German School. Christina has now completed her Assistantship successfully. Needless to state, we are very proud of all of our stellar products of the German Department at Temple University! Christiana is a previous recipient of the Delta Phi Alpha National German Honor Society induction; she has been active in our Temple German Society. Well Done!
 
 ### Membership Requirements
 Section 1. Members of chapters shall be chosen from undergraduate and graduate students and/or members of the faculty of the institution where the chapter is located and shall be accredited by their faculty advisors and/or the chairman of the German Department.
@@ -90,3 +86,5 @@ Section 3. Qualifications for student membership shall be as follows:
 - A minimum average standing of B+ or its equivalent in all German courses taken.
 - A minimum of B- or its equivalent in all courses of study at the college and university level.
 - Indication of continued interest in the study of German language and literature.
+
+For more info about Delta Phi Alpha National German Honor Society, Gamma Omicron Chapter, visit the Student Clubs & Organizations section of the [German Language and Cultural Studies Major page](https://www.temple.edu/academics/degree-programs/german-language-and-cultural-studies-major-la-glcs-ba).
