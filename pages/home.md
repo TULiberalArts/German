@@ -14,7 +14,7 @@ promotion-table: true
 feature: true
 feature-image: media/German hero.jpg
 ---
-### Study One of the Great World Languages and Leading Western Cultures
+## Study One of the Great World Languages and Leading Western Cultures
 Temple University’s German program provides broad linguistic, cultural, and practical experiences to prepare students to participate meaningfully in the German-speaking world, be it in graduate school, government or business.
 
 ## A Leading Economic Power in the World Community
