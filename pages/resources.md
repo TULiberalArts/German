@@ -52,7 +52,7 @@ ___
 - [Livemocha](http://www.livemocha.com/)
 - [Busuu](http://www.busuu.com/)
 - [Wordreference.com](http://forum.wordreference.com/)
-- [Online Deutsch lernen](https://www.alumniportal-deutschland.org/deutsche-sprache/online-deutsch-lernen/videos-und-interaktive-uebungen.html)
+- [Online Deutsch lernen](https://community.alumniportal-deutschland.org)
 - [Start Deutsch 1](http://www.goethe.de/lrn/pro/sd1/deindex.htm)
 - [Start Deutsch 2](http://www.goethe.de/lrn/pro/sd2/deindex.htm)
 - [Zertifikat Deutsch](http://www.goethe.de/lrn/pro/ZD-online/ZD.htm)
