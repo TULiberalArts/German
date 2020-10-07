@@ -67,7 +67,7 @@ ___
 ![TUGS]({{site.baseurl}}/media/resized Temple German Society.jpg){:.responsive-img .img-right}
 TUGS meets on Wednesdays at 4:00pm in 506 Anderson Hall. All are welcome to attend and participate!
 
-For more info about the society, visit the Student Clubs & Organizations section of the [German Language and Cultural Studies Major page]p(https://www.temple.edu/academics/degree-programs/german-language-and-cultural-studies-major-la-glcs-ba) or contact the faculty advisor, [Jamie Zelechowski](mailto:jamie.zelechowski@temple.edu)
+For more info about the society, visit the Student Clubs & Organizations section of the [German Language and Cultural Studies Major page](https://www.temple.edu/academics/degree-programs/german-language-and-cultural-studies-major-la-glcs-ba) or contact the faculty advisor, [Jamie Zelechowski](mailto:jamie.zelechowski@temple.edu)
 
 ___
 
