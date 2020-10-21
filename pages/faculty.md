@@ -10,6 +10,7 @@ description: >-
   Meet our faculty in the German department of Temple University’s College of Liberal Arts.
 # custom variables
 faculty: profiles/faculty.html
+emeritus: profiles/emeritus.html
 ---
 Our German faculty includes many Ph.D. graduates with extensive backgrounds in studying and living abroad in German-Speaking countries, and with years of teaching experience.
 
