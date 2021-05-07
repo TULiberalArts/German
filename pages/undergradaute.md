@@ -49,10 +49,11 @@ The department encourages students to apply for internships in a German-speaking
 **German Professor’s Prize:** This annual award is given by the Department of French, German, Italian and Slavic to the most outstanding members of the graduating class in recognition of excellence in German studies.
 
 Past Recipients:
-- 2014 - Shelby Greenwood
-- 2013 - Marta Sydoryak
-- 2012 - Amanda Torre
-- 2010 - Nicole Kaminski
+- 2021: Erik Helland
+- 2014: Shelby Greenwood
+- 2013: Marta Sydoryak
+- 2012: Amanda Torre
+- 2010: Nicole Kaminski
 
 **German Society of Pennsylvania:** The scholarship award is intended to provide financial assistance to selected undergraduate students majoring in German language and literature. Awards are based primarily on the student's achievement and promise, although financial need may also be considered. The average awards in recent years have been about $2,500, with the dollar amount and number of recipients varying from year to year. The awards may be applied only to tuition, are paid in two installments at the beginnings of the fall and spring semesters, and are transmitted directly to the recipient's college or university upon certification of enrollment by that institution.
 
